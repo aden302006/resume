@@ -28,10 +28,10 @@ a {
 .cardContainer {
   height: auto;
   max-width: 70vw;
-  padding: 0 10px;
+  padding: 0 20px;
   background: white;
   border: 1px solid lightgray;
   border-radius: 20px;
   margin-top: 20px;
-  box-shadow: 10px 10px 10px gray;
+  box-shadow: 10px 5px 20px gray;
 }
